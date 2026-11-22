@@ -222,8 +222,8 @@ Interested in Java Full Stack Development, Spring Boot, React.js and Backend Dev
 
 ---
 ## 📸 Project Screenshots
-### Admin Dashboard
-![Admin Dashboard](Screenshots/login.png)
+### Login Dashboard
+![Login Dashboard](Screenshots/login.png)
 ### HR Dashboard
 ![HR Dashboard](Screenshots/Admindashboard.png)
 
