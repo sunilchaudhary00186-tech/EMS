@@ -224,10 +224,10 @@ Interested in Java Full Stack Development, Spring Boot, React.js and Backend Dev
 ## 📸 Project Screenshots
 
 ### HR Dashboard
-![HR Dashboard](Screenshots/Admin dashboard.png)
+![HR Dashboard](Screenshots/Admindashboard.png)
 
 ### Employee Management
-![Employees](Screenshots/Employee add.png)
+![Employees](Screenshots/Employeeadd.png)
 
 ### Attendance
 ![Attendance](Screenshots/Attendance.png)
