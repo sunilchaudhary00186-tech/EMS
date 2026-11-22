@@ -179,7 +179,7 @@ const MyProfile = () => {
 
                             <ProfileItem
                                 label="Phone"
-                                value={profile.phone}
+                                value={profile.phoneNumber}
                             />
 
                         </div>
@@ -210,9 +210,9 @@ const MyProfile = () => {
                                 <ProfileItem
                                     label="Department"
                                     value={
-                                        typeof profile.department === "object"
-                                            ? profile.department?.name
-                                            : profile.department
+                                        typeof profile.departmentName === "object"
+                                            ? profile.departmentName?.name
+                                            : profile.departmentName
                                     }
                                 />
 
